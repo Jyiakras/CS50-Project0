@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveserver.settings.port": 5500,
+    "liveServer.settings.NoBrowser": true,
+    "liveServer.settings.useBrowserPreview": false,
+    "liveServer.settings.useLocalIp": true
+}
